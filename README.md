@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🏳️‍🌈 ~ Costas Botomas ~ 🏳️‍⚧️
 
-<!--
-**CostasBotomas/CostasBotomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hey there! I'm Costas (they/them), a genderfluid developer from Greece.**  
+I craft code with passion, always aiming for efficiency and elegance.  
+🚀 Apple & Metal are first-class citizens in my projects.
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- 🖥️ Love pushing the limits of **Apple hardware** & **Metal API**
+- 🐍 Python enthusiast, but I dabble in other languages too
+- 🌍 Open-source advocate & community-driven developer
+- 🎨 Blending creativity with performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- **Languages:** Python, Swift, C++, Metal Shading Language  
+- **Frameworks:** Flask, Metal, Vulkan, OpenGL  
+- **Platforms:** macOS, Linux (Ubuntu 22.04)  
+---
+*"Code is poetry, and performance is the rhythm."*  
